@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:scrollbars="none" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#fff"
+        android:onClick="hideSoftInputWindow"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:background="#3284b6" >
+
+            <Button
+                android:id="@+id/btnBack"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="7dp"
+                android:adjustViewBounds="true"
+                android:background="@drawable/btn_prev"
+                android:contentDescription="@string/chat_connect"
+                android:onClick="goBack"
+                android:scaleType="fitStart" />
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:background="#3284b6"
+            android:contentDescription="@string/chat_connect"
+            android:scaleType="fitCenter"
+            android:src="@drawable/title_enter_room" />
+
+        <EditText
+            android:id="@+id/roomCode"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginTop="50dp"
+            android:background="@drawable/textfield_white"
+            android:ems="10"
+            android:hint="@string/chat_enter_code"
+            android:inputType="number"
+            android:padding="10dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:scrollHorizontally="true"
+            android:textColor="#3284b6"
+            android:textColorHint="#999" >
+
+            <requestFocus />
+        </EditText>
+
+        <EditText
+            android:id="@+id/roomPassword"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/textfield_white"
+            android:hint="@string/chat_enter_pw"
+            android:inputType="numberPassword"
+            android:maxLength="4"
+            android:padding="10dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:scrollHorizontally="true"
+            android:textColor="#3284b6"
+            android:textColorHint="#999" >
+        </EditText>
+
+        <Button
+            android:id="@+id/btnEnter"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/btn_blue"
+            android:onClick="btnClickEnter"
+            android:text="@string/chat_enter"
+            android:textColor="#fff"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</ScrollView>

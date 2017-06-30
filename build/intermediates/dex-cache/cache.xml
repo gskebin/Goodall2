@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\hanbit\AndroidStudioProjects\Goodall2\app\libs\commons-codec-1.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b7f0fc8f61ecadeb3695f0b9464755eee44374d4">
+        <dex dex="C:\Users\hanbit\AndroidStudioProjects\Goodall2\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-codec-1.6_d59d2a7e06d66893f51f0841bf6f7591e1e2115b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hanbit\AndroidStudioProjects\Goodall2\app\libs\commons-logging-1.1.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f6f66e966c70a83ffbdb6f17a0919eaf7c8aca7f">
+        <dex dex="C:\Users\hanbit\AndroidStudioProjects\Goodall2\app\build\intermediates\transforms\dex\debug\folders\1000\2\commons-logging-1.1.3_d246379f935ea6799cc4b54ffff5131ba7b63224\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hanbit\AndroidStudioProjects\Goodall2\app\libs\org.eclipse.paho.android.service-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="442f81337cb942a855ab20a4a16bfe43adb612c7">
+        <dex dex="C:\Users\hanbit\AndroidStudioProjects\Goodall2\app\build\intermediates\transforms\dex\debug\folders\1000\2\org.eclipse.paho.android.service-1.0.2_5538be5d3d6556f7c7847dfb11923b3bd9e44874\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hanbit\AndroidStudioProjects\Goodall2\app\libs\httpclient-cache-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fe96f9012712b5aa743769037a2e00fc6ee4b80f">
+        <dex dex="C:\Users\hanbit\AndroidStudioProjects\Goodall2\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpclient-cache-4.3.6_d5ac88d37e8ceb823d626283aa375ba578cb9072\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hanbit\AndroidStudioProjects\Goodall2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\hanbit\AndroidStudioProjects\Goodall2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_029be867c4ec6d68a0e819dbee9c4bd95b4f1843\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hanbit\AndroidStudioProjects\Goodall2\app\libs\fluent-hc-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="352d90a003c85819b6e007ac9dcd9967c62da1f9">
+        <dex dex="C:\Users\hanbit\AndroidStudioProjects\Goodall2\app\build\intermediates\transforms\dex\debug\folders\1000\2\fluent-hc-4.3.6_ba4b4a812c9bbd720b09c4bddaa3566ab2036602\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hanbit\AndroidStudioProjects\Goodall2\app\libs\httpmime-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="66a39a5e37d5da40fdad6176fc24ef4316e74702">
+        <dex dex="C:\Users\hanbit\AndroidStudioProjects\Goodall2\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpmime-4.3.6_30dde45fdb1bbdc462f1984cee66c2654c8cb1ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hanbit\AndroidStudioProjects\Goodall2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="520d11834a107a6f8e66773dfba0df15433c2ffd">
+        <dex dex="C:\Users\hanbit\AndroidStudioProjects\Goodall2\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9b3402a12c9adc2910261edb02b4a2a777b1ed65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hanbit\AndroidStudioProjects\Goodall2\app\libs\glide-3.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="C:\Users\hanbit\AndroidStudioProjects\Goodall2\app\build\intermediates\transforms\dex\debug\folders\1000\2\glide-3.6.1_d41af79c191f4851deb16b96e6ae36a60b8dbd5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hanbit\AndroidStudioProjects\Goodall2\app\libs\httpclient-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f3cf3b25e14d3bca47773e95aa85ea8fefbf8e81">
+        <dex dex="C:\Users\hanbit\AndroidStudioProjects\Goodall2\app\build\intermediates\transforms\dex\debug\folders\1000\2\httpclient-4.3.6_8d6d41849bc5a1798846b5d3ec8728bb1eee0cb1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hanbit\AndroidStudioProjects\Goodall2\app\libs\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\hanbit\AndroidStudioProjects\Goodall2\app\build\intermediates\transforms\dex\debug\folders\1000\2\picasso-2.5.2_0b6e88800e11631e324b0ddde12ae30dfe2219a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hanbit\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\hanbit\AndroidStudioProjects\Goodall2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_14d7e01b0295a460601578fcd4bb8ad9460d0ee5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\hanbit\AndroidStudioProjects\Goodall2\app\libs\org.eclipse.paho.mqtt.utility-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be89d77b26ea0598a60b0c12da4112a4164640e">
+        <dex dex="C:\Users\hanbit\AndroidStudioProjects\Goodall2\app\build\intermediates\transforms\dex\debug\folders\1000\2\org.eclipse.paho.mqtt.utility-1.0.2_d14a8310e7f0230d1c7c97fda34b6f628e4bc454\classes.dex" />
+    </item>
+
+</items>

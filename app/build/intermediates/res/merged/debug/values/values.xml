@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="add_file">+</string>
+    <string name="app_name">구달</string>
+    <string name="chat_album">앨범</string>
+    <string name="chat_camera">카메라</string>
+    <string name="chat_connect">접속하기</string>
+    <string name="chat_copy">복사</string>
+    <string name="chat_create">생성</string>
+    <string name="chat_delete">삭제</string>
+    <string name="chat_des">Chat With</string>
+    <string name="chat_email">이메일</string>
+    <string name="chat_enter">들어가기</string>
+    <string name="chat_enter_answer">선택문항을 입력해주세요.</string>
+    <string name="chat_enter_code">코드번호를 입력해주세요.</string>
+    <string name="chat_enter_msg">여기에 입력해주세요.</string>
+    <string name="chat_enter_pw">비밀번호를 입력해주세요.</string>
+    <string name="chat_enter_subject">주제를 입력해주세요.</string>
+    <string name="chat_find_id">계정찾기</string>
+    <string name="chat_guest">바로입장(Guest)</string>
+    <string name="chat_id">아이디</string>
+    <string name="chat_id_email">아이디(메일주소)</string>
+    <string name="chat_join">회원가입</string>
+    <string name="chat_join_submin">가입하기</string>
+    <string name="chat_logo">로고</string>
+    <string name="chat_logout">로그아웃</string>
+    <string name="chat_member">회원</string>
+    <string name="chat_message">입력해주세요.</string>
+    <string name="chat_modify_info">정보수정</string>
+    <string name="chat_name">대화명</string>
+    <string name="chat_nomember">비회원</string>
+    <string name="chat_ok">확인</string>
+    <string name="chat_password">비밀번호</string>
+    <string name="chat_password_confirm">비밀번호 확인</string>
+    <string name="chat_photo">사진</string>
+    <string name="chat_profile">프로필사진</string>
+    <string name="chat_public_n">비공개</string>
+    <string name="chat_public_y">공개</string>
+    <string name="chat_public_yn">공개여부</string>
+    <string name="chat_recomm">추천</string>
+    <string name="chat_reenter_pw">비밀번호를 재입력해주세요.</string>
+    <string name="chat_return">뒤로가기</string>
+    <string name="chat_room_exit">방나가기</string>
+    <string name="chat_room_item">방아이템</string>
+    <string name="chat_room_join">방들어가기</string>
+    <string name="chat_room_make">방만들기</string>
+    <string name="chat_roomname">생성할 방제목을 입력해주세요.</string>
+    <string name="chat_stat">통계</string>
+    <string name="chat_submit">전송</string>
+    <string name="chat_user_list">대화방 참여자 리스트</string>
+    <string name="chat_user_modify">변경하기</string>
+    <string name="chat_vote">투표</string>
+    <string name="chat_vote_add">투표등록</string>
+    <string name="chat_vote_commit">투표하기</string>
+    <string name="chat_vote_result">투표결과</string>
+    <string name="chat_vote_result2">결과</string>
+    <string name="close">닫기</string>
+    <string name="from_and">또는</string>
+    <string name="photo_save">저장</string>
+    <string name="roomCode">코드번호</string>
+    <string name="search_next">다음 검색</string>
+    <string name="search_prev">이전 검색</string>
+    <string name="search_word">대화내용 검색</string>
+    <string name="stat_like_cnt">추천</string>
+    <string name="stat_like_per">추천\n참여비율(%)</string>
+    <string name="stat_msg_cnt">대화</string>
+    <string name="stat_msg_per">대화\n참여비율(%)</string>
+    <string name="stat_split">구분선</string>
+    <string name="stat_user_name">대화명</string>
+    <string name="toast_text_clipboard_adress">복사완료</string>
+    <string name="vote_default_subject">무제</string>
+    <string name="vote_item_remove">아이템 제거</string>
+    <string name="vote_item_select">아이템 선택</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+    </style>
+    <style name="ChatTheme" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:attr/actionBarSize">45dp</item>
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+    </style>
+    <style name="CustomDialog">    
+        <item name="android:windowFrame">@null</item>
+	    <item name="android:windowBackground">@android:color/transparent</item>
+	    <item name="android:windowIsFloating">true</item>
+	    <item name="android:windowContentOverlay">@null</item>
+	    <item name="android:windowTitleStyle">@null</item>
+	    <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+	    <item name="android:windowSoftInputMode">stateUnspecified|adjustPan|stateAlwaysHidden</item>
+	    <item name="android:backgroundDimEnabled">true</item>
+	    <item name="android:background">@android:color/transparent</item>
+	</style>
+    <style name="MyActionBar" parent="@android:style/Widget.DeviceDefault.ActionBar.Solid">
+        <!-- 색상 및 이미지로 액션바 배경색 지정 -->
+        <item name="android:background">#2C76A3</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:titleTextStyle">@style/MyActionBarTitleText</item>
+    </style>
+    <style name="MyActionBarTitleText" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">#ffffff</item>
+    </style>
+    <style name="SplashTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">@drawable/intro</item>
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+    </style>
+</resources>

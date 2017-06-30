@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:scrollbars="none" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="hideSoftInputWindow"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:background="#3284b6" >
+
+            <Button
+                android:id="@+id/btnBack"
+                android:layout_width="40dp"
+                android:layout_height="40dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginTop="7dp"
+                android:adjustViewBounds="true"
+                android:background="@drawable/btn_prev"
+                android:contentDescription="@string/chat_connect"
+                android:onClick="goBack"
+                android:scaleType="fitStart" />
+
+            <Button
+                android:id="@+id/btnLogout"
+                android:layout_width="wrap_content"
+                android:layout_height="40dp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="14dp"
+                android:adjustViewBounds="true"
+                android:background="@drawable/btn_gray"
+                android:contentDescription="@string/chat_logout"
+                android:onClick="goLogout"
+                android:paddingLeft="10dp"
+                android:paddingRight="10dp"
+                android:scaleType="fitStart"
+                android:text="@string/chat_logout"
+                android:textColor="#ffffff" />
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:adjustViewBounds="true"
+            android:background="#3284b6"
+            android:contentDescription="@string/chat_connect"
+            android:scaleType="fitCenter"
+            android:src="@drawable/title_modify" />
+
+        <ImageView
+            android:id="@+id/chatProfile"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_marginTop="10dp"
+            android:adjustViewBounds="true"
+            android:background="#fff"
+            android:contentDescription="@string/chat_profile"
+            android:onClick="changeProfile"
+            android:scaleType="fitCenter"
+            android:src="@drawable/chat_user_male" />
+
+        <EditText
+            android:id="@+id/chatName"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/textfield_white"
+            android:hint="@string/chat_name"
+            android:inputType="textNoSuggestions"
+            android:maxLength="10"
+            android:padding="10dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:scrollHorizontally="true"
+            android:textColor="#3284b6"
+            android:textColorHint="#999" >
+        </EditText>
+
+        <EditText
+            android:id="@+id/chatEmail"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/textfield_white"
+            android:hint="@string/chat_email"
+            android:inputType="textEmailAddress"
+            android:padding="10dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:scrollHorizontally="true"
+            android:textColor="#3284b6"
+            android:textColorHint="#999" >
+        </EditText>
+
+        <EditText
+            android:id="@+id/chatPw"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/textfield_white"
+            android:hint="@string/chat_password"
+            android:inputType="textPassword"
+            android:padding="10dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:scrollHorizontally="true"
+            android:textColor="#3284b6"
+            android:textColorHint="#999" >
+        </EditText>
+
+        <EditText
+            android:id="@+id/chatPwConfirm"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/textfield_white"
+            android:hint="@string/chat_password_confirm"
+            android:inputType="textPassword"
+            android:padding="10dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:scrollHorizontally="true"
+            android:textColor="#3284b6"
+            android:textColorHint="#999" >
+        </EditText>
+
+        <Button
+            android:id="@+id/connentBtn"
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/btn_blue"
+            android:onClick="btnClick"
+            android:text="@string/chat_user_modify"
+            android:textColor="#fff"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</ScrollView>

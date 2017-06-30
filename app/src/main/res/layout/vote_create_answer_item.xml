@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/vote_answer_item"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/vote_answer_bg"
+    android:orientation="horizontal" >
+
+    <EditText
+        android:id="@+id/answer_create_content"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="1"
+        android:background="@android:color/transparent"
+        android:hint="@string/chat_enter_answer"
+        android:inputType="textNoSuggestions"
+        android:scrollHorizontally="true"
+        android:textColor="#000"
+        android:textColorHint="#999" >
+    </EditText>
+
+    <ImageButton
+        android:id="@+id/answer_remove_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@android:color/transparent"
+        android:contentDescription="@string/vote_item_remove"
+        android:onClick="removeList"
+        android:src="@drawable/vote_answer_remove_btn" >
+    </ImageButton>
+
+</LinearLayout>

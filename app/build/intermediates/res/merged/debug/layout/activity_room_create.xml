@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:scrollbars="none" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#fff"
+        android:onClick="hideSoftInputWindow"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:onClick="hideSoftInputWindow"
+            android:orientation="vertical" >
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="50dp"
+                android:background="#3284b6" >
+
+                <Button
+                    android:id="@+id/btnBack"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginTop="7dp"
+                    android:adjustViewBounds="true"
+                    android:background="@drawable/btn_prev"
+                    android:contentDescription="@string/chat_connect"
+                    android:onClick="goBack"
+                    android:scaleType="fitStart" />
+            </RelativeLayout>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:background="#3284b6"
+                android:contentDescription="@string/chat_connect"
+                android:scaleType="fitCenter"
+                android:src="@drawable/title_create_room" />
+
+            <EditText
+                android:id="@+id/roomName"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:layout_marginTop="20dp"
+                android:background="@drawable/textfield_white"
+                android:ems="10"
+                android:hint="@string/chat_roomname"
+                android:inputType="textNoSuggestions"
+                android:padding="10dp"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:scrollHorizontally="true"
+                android:textColor="#3284b6"
+                android:textColorHint="#999" >
+
+                <requestFocus />
+            </EditText>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:onClick="hideSoftInputWindow"
+                android:orientation="horizontal" >
+
+                <Button
+                    android:id="@+id/btnPublicY"
+                    android:layout_width="25dp"
+                    android:layout_height="25dp"
+                    android:layout_marginRight="5dp"
+                    android:background="@drawable/btn_radio_on"
+                    android:onClick="btnClickPublicY" />
+
+                <TextView
+                    android:id="@+id/txtPublicY"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="25dp"
+                    android:text="@string/chat_public_y"
+                    android:textColor="#3284b6"
+                    android:textSize="20sp" />
+
+                <Button
+                    android:id="@+id/btnPublicN"
+                    android:layout_width="25dp"
+                    android:layout_height="25dp"
+                    android:layout_marginRight="5dp"
+                    android:background="@drawable/btn_radio_off"
+                    android:onClick="btnClickPublicN" />
+
+                <TextView
+                    android:id="@+id/txtPublicN"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/chat_public_n"
+                    android:textColor="#3284b6"
+                    android:textSize="20sp" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/pwLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <EditText
+                android:id="@+id/roomPW1"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/textfield_white"
+                android:hint="@string/chat_enter_pw"
+                android:inputType="numberPassword"
+                android:maxLength="4"
+                android:padding="10dp"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:scrollHorizontally="true"
+                android:textColor="#3284b6"
+                android:textColorHint="#999" >
+            </EditText>
+
+            <EditText
+                android:id="@+id/roomPW2"
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:layout_marginTop="10dp"
+                android:background="@drawable/textfield_white"
+                android:hint="@string/chat_reenter_pw"
+                android:inputType="numberPassword"
+                android:maxLength="4"
+                android:padding="10dp"
+                android:paddingBottom="0dp"
+                android:paddingLeft="20dp"
+                android:paddingRight="20dp"
+                android:scrollHorizontally="true"
+                android:textColor="#3284b6"
+                android:textColorHint="#999" >
+            </EditText>
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/btnComplete"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/btn_blue"
+            android:onClick="btnClickComplete"
+            android:text="@string/chat_create"
+            android:textColor="#fff"
+            android:textSize="23sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+</ScrollView>

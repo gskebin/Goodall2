@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_modify.xml",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\layout\\activity_user_modify.xml"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\vote_result_item.xml",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\layout\\vote_result_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toast_msg.xml",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\layout\\toast_msg.xml"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_list.xml",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\layout\\activity_user_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_room_create.xml",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\layout\\activity_room_create.xml"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\vote_answer_item.xml",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\layout\\vote_answer_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_stat.xml",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\layout\\activity_stat.xml"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_room_list.xml",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\layout\\activity_room_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_room_enter.xml",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\layout\\activity_room_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem.xml",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\layout\\listitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\vote_answer_item_header.xml",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\layout\\vote_answer_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vote_list.xml",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\layout\\activity_vote_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\stat_item.xml",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\layout\\stat_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\vote_create_header.xml",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\layout\\vote_create_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photo_save_btn.xml",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\layout\\photo_save_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\vote_create_answer_item.xml",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\layout\\vote_create_answer_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vote_create.xml",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\layout\\activity_vote_create.xml"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_to.xml",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\layout\\activity_to.xml"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\room_item.xml",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\layout\\room_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guest_login.xml",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\layout\\activity_guest_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sendlistitem.xml",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\layout\\sendlistitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\vote_create_footer.xml",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\layout\\vote_create_footer.xml"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vote_result.xml",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\layout\\activity_vote_result.xml"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\vote_answer_item_footer.xml",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\layout\\vote_answer_item_footer.xml"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_vote_view.xml",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\layout\\activity_vote_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\user_list_item.xml",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\layout\\user_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_join.xml",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\layout\\activity_join.xml"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\alert_msg.xml",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\layout\\alert_msg.xml"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photo.xml",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\layout\\activity_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listitem_copy.xml",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\layout\\listitem_copy.xml"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\vote_item.xml",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\layout\\vote_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_user_find.xml",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\layout\\activity_user_find.xml"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_from.xml",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\layout\\activity_from.xml"
+    }
+]

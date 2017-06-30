@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#3284b6"
+    android:onClick="hideSoftInputWindow"
+    android:orientation="vertical"
+    tools:context=".ListActivity" >
+
+    <View
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:background="#3284b6" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:background="#3284b6"
+        android:contentDescription="@string/chat_connect"
+        android:scaleType="fitCenter"
+        android:src="@drawable/title_list_room" />
+
+    <ListView
+        android:id="@+id/listRoom"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="1"
+        android:background="#ffffff"
+        android:divider="#999"
+        android:dividerHeight="1px"
+        android:transcriptMode="disabled" >
+    </ListView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:gravity="center_horizontal"
+        android:onClick="hideSoftInputWindow"
+        android:background="#fff"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/btnRoomMake"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginRight="1px"
+            android:layout_weight="1"
+            android:adjustViewBounds="true"
+            android:background="#333"
+            android:contentDescription="@string/chat_room_make"
+            android:onClick="btnClickRoomMake"
+            android:scaleType="fitCenter"
+            android:src="@drawable/btn_make_room" />
+
+        <ImageButton
+            android:id="@+id/btnRoomJoin"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginRight="1px"
+            android:layout_weight="1"
+            android:adjustViewBounds="true"
+            android:background="#333"
+            android:contentDescription="@string/chat_room_join"
+            android:onClick="btnClickRoomJoin"
+            android:scaleType="fitCenter"
+            android:src="@drawable/btn_enter_room" />
+
+        <ImageButton
+            android:id="@+id/btnModifyInfo"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:adjustViewBounds="true"
+            android:background="#333"
+            android:contentDescription="@string/chat_modify_info"
+            android:onClick="btnClickModifyInfo"
+            android:scaleType="fitCenter"
+            android:src="@drawable/btn_modify_info" />
+    </LinearLayout>
+
+</LinearLayout>

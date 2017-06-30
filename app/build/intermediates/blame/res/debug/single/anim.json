@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_down.xml",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\anim\\bottom_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_up.xml",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\anim\\bottom_up.xml"
+    }
+]

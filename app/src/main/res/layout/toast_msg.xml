@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/toast_msg_item"
+    android:layout_width="250dp"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_horizontal"
+    android:background="@android:color/transparent"
+    android:orientation="vertical" >
+    
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:background="@android:color/transparent"
+        android:contentDescription="@string/chat_logo"
+        android:scaleType="fitXY"
+        android:src="@drawable/chat_toast_top1" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:adjustViewBounds="true"
+        android:background="@android:color/transparent"
+        android:contentDescription="@string/chat_logo"
+        android:scaleType="fitXY"
+        android:src="@drawable/chat_toast_top2" />
+    
+    <TextView
+        android:id="@+id/chat_toast_copy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/chat_toast_bg"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="@string/chat_copy"
+        android:textColor="#444"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/chat_toast_delete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/chat_toast_bg"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="@string/chat_delete"
+        android:textColor="#444"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/chat_toast_recomm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/chat_toast_bottom"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="@string/chat_recomm"
+        android:textColor="#444"
+        android:textSize="20sp" />
+
+</LinearLayout>

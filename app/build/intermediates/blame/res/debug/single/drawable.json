@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sub_btn_selector.xml",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable\\sub_btn_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_list_white.xml",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable\\background_list_white.xml"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background_list_gray.xml",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable\\background_list_gray.xml"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_chat_selector.xml",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable\\btn_chat_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_selector.xml",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable\\btn_selector.xml"
+    }
+]

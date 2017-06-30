@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:onClick="hideSoftInputWindow" >
+
+    <LinearLayout
+        android:id="@+id/vote_answer_item"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/vote_answer_bg"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/answer_content"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:background="@android:color/transparent"
+            android:text="@string/chat_vote"
+            android:textColor="#333"
+            android:textSize="16sp" />
+
+        <ImageView
+            android:id="@+id/answer_select_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/vote_answer_unselected"
+            android:contentDescription="@string/vote_item_select" >
+
+            <!-- android:background="@android:color/transparent" -->
+
+        </ImageView>
+    </LinearLayout>
+
+</FrameLayout>

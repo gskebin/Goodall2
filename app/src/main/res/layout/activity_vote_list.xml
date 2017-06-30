@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:onClick="hideSoftInputWindow"
+    android:orientation="vertical"
+    tools:context=".VoteListActivity" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#3182b5"
+        android:orientation="horizontal" >
+
+        <ImageButton
+            android:id="@+id/btnReturnRoom"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center_vertical"
+            android:adjustViewBounds="true"
+            android:background="@android:color/transparent"
+            android:contentDescription="@string/chat_return"
+            android:onClick="goBack"
+            android:scaleType="fitXY"
+            android:src="@drawable/btn_chat_prev" />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:gravity="center_horizontal"
+            android:text="@string/chat_vote"
+            android:textColor="#fff"
+            android:textSize="20sp" />
+
+        <ImageButton
+            android:id="@+id/btnAddVote"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center_vertical"
+            android:adjustViewBounds="true"
+            android:background="@android:color/transparent"
+            android:contentDescription="@string/chat_return"
+            android:onClick="addVote"
+            android:scaleType="fitXY"
+            android:src="@drawable/btn_vote_add" />
+
+        <ImageButton
+            android:id="@+id/btnTemp"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_gravity="center_vertical"
+            android:adjustViewBounds="true"
+            android:background="@android:color/transparent"
+            android:contentDescription="@string/chat_return"
+            android:visibility="gone"
+            android:scaleType="fitXY" />
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/listVote"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_weight="1"
+        android:divider="#999"
+        android:dividerHeight="1px"
+        android:transcriptMode="alwaysScroll" >
+    </ListView>
+
+</LinearLayout>

@@ -1,0 +1,382 @@
+[
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_chat_search.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\btn_chat_search.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\from.9.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\from.9.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\stat_list_white.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\stat_list_white.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_album.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\btn_album.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_login.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\btn_login.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_save.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_save.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_close.9.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\btn_close.9.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chat_user_female.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\chat_user_female.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_gray.9.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\btn_gray.9.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_chat_normal.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\btn_chat_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_prev.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\btn_prev.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_camera.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\btn_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\title_modify.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\title_modify.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_blue.9.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\btn_blue.9.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chat_vote.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\chat_vote.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chat_menu_stat.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\chat_menu_stat.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\room_list_gray.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\room_list_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chat_album.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\chat_album.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vote_answer_unselected.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\vote_answer_unselected.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_blue2.9.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\btn_blue2.9.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vote_answer_remove_btn.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\vote_answer_remove_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo_enter_room.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\logo_enter_room.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\to.9.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\to.9.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chat_menu_album.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\chat_menu_album.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chat_toast_bg.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\chat_toast_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_chat_prev.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\btn_chat_prev.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\title_create_room.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\title_create_room.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\txt_login.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\txt_login.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_stat.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\btn_stat.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\title_join.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\title_join.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\notification2.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\notification2.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\logo_small.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\logo_small.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_list_exit.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\btn_list_exit.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chat_toast_top2.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\chat_toast_top2.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_menu_allfriends.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_allfriends.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_modify_info.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\btn_modify_info.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_make_room.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\btn_make_room.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\stat_list_gray.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\stat_list_gray.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_vote.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\btn_vote.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_confirm.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\btn_confirm.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_ab_back_holo_dark.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_list_create.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\btn_list_create.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_darkblue.9.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\btn_darkblue.9.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chat_user_male.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\chat_user_male.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\title_list_room.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\title_list_room.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vote_answer_remove.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\vote_answer_remove.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vote_count.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\vote_count.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_radio_on.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\btn_radio_on.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\textfield_white.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\textfield_white.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\notification_org.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\notification_org.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vote_answer_selected.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\vote_answer_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chat_toast_bottom.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\chat_toast_bottom.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_list_enter.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\btn_list_enter.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_chat_plus.9.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\btn_chat_plus.9.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_bottom.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\btn_bottom.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\notification.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\notification.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\textbox.9.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\textbox.9.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vote_from.9.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\vote_from.9.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chat_menu_vote.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\chat_menu_vote.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\intro.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\intro.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_confirm_circle.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\btn_confirm_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_normal.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\btn_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_chat_submit.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\btn_chat_submit.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_login_guest.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\btn_login_guest.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_vote_add.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\btn_vote_add.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vote_to.9.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\vote_to.9.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_list_modify.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\btn_list_modify.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vote_complete.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\vote_complete.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\stat_header_split.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\stat_header_split.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_pressed.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\btn_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_sub_pressed.9.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\btn_sub_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_chat_before.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\btn_chat_before.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chat_toast_top1.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\chat_toast_top1.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_search_open.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\btn_search_open.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_enter_room.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\btn_enter_room.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\alert_title.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\alert_title.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\room_list_white.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\room_list_white.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\title_from.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\title_from.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vote_answer_checked.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\vote_answer_checked.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vote_answer_bg.9.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\vote_answer_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chat_stats.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\chat_stats.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\vote_answer_unchecked.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\vote_answer_unchecked.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_top.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\btn_top.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chat_menu_camera.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\chat_menu_camera.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_more.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\btn_more.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_sub_normal.9.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\btn_sub_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_darkgray.9.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\btn_darkgray.9.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_chat_pressed.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\btn_chat_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\title_enter_room.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\title_enter_room.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_radio_off.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\btn_radio_off.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_darkgray2.9.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\btn_darkgray2.9.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\title_find_user.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\title_find_user.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\title_guest_login.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\title_guest_login.png"
+    },
+    {
+        "merged": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\chat_camera.png",
+        "source": "C:\\Users\\hanbit\\AndroidStudioProjects\\Goodall2\\app\\src\\main\\res\\drawable-hdpi\\chat_camera.png"
+    }
+]
